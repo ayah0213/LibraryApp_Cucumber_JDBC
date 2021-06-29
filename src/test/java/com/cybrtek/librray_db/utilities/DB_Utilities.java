@@ -6,7 +6,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-public class DB_Utilities {
+public class  DB_Utilities {
 
     // gonna be visible for all static method inside of each static method, good for re-usability
     private static Connection con;
